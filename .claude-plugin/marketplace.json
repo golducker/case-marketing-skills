@@ -1,0 +1,14 @@
+{
+  "name": "case-marketing-local",
+  "owner": {
+    "name": "lethi"
+  },
+  "plugins": [
+    {
+      "name": "case-marketing",
+      "source": "./plugins/case-marketing",
+      "description": "Bundle giải case marketing: skill điều phối case-competition và 28 skill chọn lọc, không trùng vai trò."
+    }
+  ],
+  "description": "Bundle skill Claude Code cho thi giải case marketing."
+}

@@ -1,0 +1,7 @@
+{
+  "name": "case-marketing",
+  "version": "1.0.0",
+  "description": "Bundle giải case marketing: skill điều phối case-competition và 28 skill chọn lọc từ coreyhaines31/marketingskills, BrianRWagner/ai-marketing-claude-code-skills và thatrebeccarae/claude-marketing.",
+  "author": { "name": "lethi" },
+  "license": "MIT"
+}
