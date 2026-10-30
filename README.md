@@ -4,8 +4,6 @@ Plugin Claude Code cho thi giải case marketing: skill điều phối `case-com
 
 ## Cài trên máy khác
 
-Máy cần đăng nhập GitHub có quyền đọc repo này (repo private), ví dụ bằng `gh auth login`.
-
 ```bash
 claude plugin marketplace add golducker/case-marketing-skills
 claude plugin install case-marketing@case-marketing-local
